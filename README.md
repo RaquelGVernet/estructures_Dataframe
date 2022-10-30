@@ -10,4 +10,6 @@ En este repositorio se adjuntan los resultados para diversas tareas:
 
 **4. La "Tasca M5T01" del curso de DataScience de IT Academy** - contiene ejercicios resueltos de hipótesis testing usando diversas librerías. Hay ejemplos de ANOVA, detección de normalidad y regresión lineal. 
 
+**5. La "Tasca M5T02" del curso de DataScience de IT Academy** - contiene ejercicios resueltos de train test, focalizados en preprocesamiento de datos y creación de variables dummy. 
+
 Los ejercicios son resueltos en Python, utilizando Jupyter Notebook. Se utilizó la distribución de Anaconda
