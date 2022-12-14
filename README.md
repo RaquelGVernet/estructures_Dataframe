@@ -14,5 +14,7 @@ En este repositorio se adjuntan los resultados para diversas tareas:
 
 **5. La "Tasca M6" del curso de DataScience de IT Academy** - contiene ejercicios resueltos de modelos lineales
 
+**6. La "Tasca M7" del curso de DataScience de IT Academy** - contiene ejercicios resueltos de modelos de clasificación
+
 
 Los ejercicios son resueltos en Python, utilizando Jupyter Notebook. Se utilizó la distribución de Anaconda
